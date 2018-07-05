@@ -1,0 +1,19 @@
+.container{
+    width:100%
+}
+
+.box1{
+    width: 50px;
+    background: blue;
+    display: inline-block;
+    float: left;
+}
+
+.box2 {
+    width:100px;
+    background: red;
+    float:right;
+}
+.element {
+    width: 300px;
+}
